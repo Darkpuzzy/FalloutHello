@@ -1,5 +1,5 @@
 ## THIS IS SCRIPT FOR START UBUNTU TERMINAL
-# Script Maker Nikola3000 Z
+# Script Maker Nikola3000
 # install nano ~/.bashrc -> after first commit -> bash ~/FalloutHello.sh
 echo "===================================== RobcOS ==================================="
 echo "WELCOME TO ROBCO INDUSTRIES (TM) TERMINAL"
@@ -26,7 +26,7 @@ sleep 1
 echo "RBIOS 4.02.08.00 52EE5.ES7.F8.SD23"
 echo "Copyright 2201 2203 Robco Ind."
 sleep 0.5
-echo "Root (SAX>home>nikolai)"
+echo "Root (SAX>home)"
 sleep 0.5
 echo "Maintenance MODE ON v.2.1.03"
 echo "=============================================================================="
@@ -41,8 +41,6 @@ sleep 1
 echo "                                        -Server 6- "
 sleep 1
 echo "                  'SoftLock Solution'"
-sleep 0.7
-echo "                  'CyberIT AED RU'"
 sleep 0.7
 echo "                  'Your safety - Us work'"
 sleep 0.5
